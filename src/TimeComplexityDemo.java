@@ -1,6 +1,6 @@
 package src;
 
-public class TimeComplexityDemo {
+public class  TimeComplexityDemo {
 
     public static void main(String[] args) {
 
